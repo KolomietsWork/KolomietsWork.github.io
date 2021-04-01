@@ -1,0 +1,15 @@
+{
+  "name": "user-gallery",
+  "version": "1.0.0",
+  "description": "own project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Kolomiets Mykola",
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta1",
+    "connect": "^3.7.0",
+    "serve-static": "^1.14.1"
+  }
+}
